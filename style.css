@@ -1,0 +1,23 @@
+header {
+    background-color: antiquewhite;
+    color:black;
+    text-align: center;
+    font-size: 60pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif';
+}
+
+Main {
+    background-color: aquamarine;
+    color:black;
+    text-align: center;
+    font-size: 40pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif';
+}
+
+Footer {
+    background-color: violet;
+    color:black;
+    text-align: center;
+    font-size: 40pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif';
+}
